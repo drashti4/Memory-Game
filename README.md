@@ -1,4 +1,3 @@
 # Memory-Game
 memory game created in JavaScript
-# day -1 
-grid created
+# drashti don't make any changes
